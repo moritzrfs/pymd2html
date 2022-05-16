@@ -1,0 +1,1 @@
+"C:\python310\python.exe" main.py %*
